@@ -37,7 +37,7 @@ export default function Home() {
           }}
         >
           <p>
-            Starting with small molecule drug design targeting tuberculosis
+            Starting with small molecule drug design targeting antibiotic resistance
           </p>
           <p>
             Aiming to expand to more pathogens and broader applications of molecular design
